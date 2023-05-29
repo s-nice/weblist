@@ -1,0 +1,49 @@
+{
+  "favicon": "https://zode.oss-cn-shanghai.aliyuncs.com/1682065909939651.png",
+  "homeUrl": "https://juhe.ai",
+  "language": "zh-CN",
+  "loading": "loading4",
+  "showGithub": false,
+  "title": "聚合AI",
+  "description": "聚合AI - AI聚合工具箱",
+  "keywords": "AI,AI工具,AI导航,ChatGPT,Midjourney,AI绘画,AI聊天,AI资源,AI学习",
+  "theme": "Light",
+  "appTheme": "App",
+  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2023 juhe.ai, All Rights Reserved</div>",
+  "iconfontUrl": "https://juhe.ai/assets/js/icon.js",
+  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?8207e4f9b549cd8ea1be29dfc872cfac",
+  "cnzzStatisticsUrl": "",
+  "simThemeImages": [
+    {
+      "src": "https://zode.oss-cn-shanghai.aliyuncs.com/1681487496924483.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    }
+  ],
+  "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
+  "simThemeHeight": 350,
+  "simThemeAutoplay": false,
+  "sideThemeImages": [
+    {
+      "src": "https://zode.oss-cn-shanghai.aliyuncs.com/1681487496924483.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    }
+  ],
+  "sideThemeHeight": 350,
+  "sideThemeAutoplay": false,
+  "shortcutThemeShowWeather": true,
+  "shortcutThemeImages": [
+    {
+      "src": "https://zode.oss-cn-shanghai.aliyuncs.com/1681487496924483.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    }
+  ],
+  "showLanguage": false,
+  "showRate": false,
+  "mirrorList": []
+}
